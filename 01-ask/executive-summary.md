@@ -53,7 +53,7 @@
 
 ### Herramientas por Fase
 - **Excel/SQL:** Limpieza inicial y exploración
-- **Python:** Análisis estadístico y ML para segmentación  
+- **Python/R:** Análisis estadístico y ML para segmentación  
 - **Tableau/Power BI:** Visualizaciones ejecutivas y dashboards
 
 ### Metodología Integrada

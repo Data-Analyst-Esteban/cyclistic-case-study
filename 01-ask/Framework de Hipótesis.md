@@ -1,6 +1,4 @@
-# Hypothesis Framework
-
-## 🔬 Framework de Hipótesis Analíticas
+# 🔬 Framework de Hipótesis
 
 ### Hipótesis Principal
 **H₀ (Nula):** Los miembros anuales y usuarios casuales usan Cyclistic de manera indistinguible en términos de patrones temporales, frecuencia y duración de viajes.
