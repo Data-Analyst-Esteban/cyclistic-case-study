@@ -38,7 +38,7 @@
 
 ## Resultados Esperados vs Insights Accionables
 
- Si las Hipótesis se Confirman
+Si las Hipótesis se Confirman
 
 - **Segmentación robusta** con al menos 3 grupos distintos
 - **Diferencias estadísticamente significativas** en todas las dimensiones clave
