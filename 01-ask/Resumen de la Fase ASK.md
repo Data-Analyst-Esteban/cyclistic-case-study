@@ -1,4 +1,4 @@
-# Resumen de la Fase ASK Completada
+# Fase ASK
 
 ## Objetivos Alcanzados
 
