@@ -45,6 +45,15 @@ Maximizar la rentabilidad de Cyclistic identificando diferencias en patrones de 
 - Propuestas de segmentación para marketing
 - Cálculo de ROI potencial y estrategias
 
+## Proceso
+
+1. Fase Ask: Declaración del problema de negocio basada en el documento
+2. Fase Prepare: Fuentes de datos y desarrollo de metodología
+3. Fase Process: Enfoque de limpieza y preparación de datos
+4. Fase Analyze: Análisis estadístico y estrategia de segmentación
+5. Fase Share: Plan de visualización y comunicación
+6. Fase Act: Recomendaciones estratégicas y plan de acción
+
 ## Stakeholders
 
 ### Directos
