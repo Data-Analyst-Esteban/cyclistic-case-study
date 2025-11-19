@@ -1,6 +1,5 @@
-#!/usr/bin/env python3
 """
-Script: Limpieza de Datos - Cyclistic
+Script: Limpieza de Datos
 Autor: Esteban Alonso Molina Morales
 Descripción: Limpia y prepara datos de Divvy siguiendo metodología del caso de estudio.
 """
