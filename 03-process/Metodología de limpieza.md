@@ -39,6 +39,21 @@ Limpiar y preparar datos para análisis, siguiendo recomendaciones del caso de e
 - **Python:** Procesamiento principal
 - **Pandas:** Manipulación de datos
 
+## Metodologías Implementadas
+
+### Python Script (Método Principal)
+
+- **Archivo:** `clean_cyclistic_data.py`
+- **Resultado:** 5,563,698 registros
+- **Tiempo:** 14.5 minutos
+
+### Power Query (Método Alternativo)
+
+- **Proceso:** Excel + Power Query
+- **Resultado:** 5,569,279 registros
+- **Validación:** Resultados consistentes con Python
+- **Aprendizaje:** Competencia en herramientas visuales
+
 ## Proceso Paso a Paso
 
 1. **Extraer:** ZIP

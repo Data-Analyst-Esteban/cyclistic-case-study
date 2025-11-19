@@ -22,7 +22,7 @@ Limpiar, validar y preparar datos de Divvy para análisis, siguiendo metodologí
 
 ## Herramientas Utilizadas
 
-- **excel:** manipulacion y screaning superficial de los datos
+- **excel y power query:** manipulacion y screaning superficial de los datos
 - **Python + Pandas:** Limpieza automática y validación
 - **Script personalizado:** `clean_cyclistic_data.py`
 
