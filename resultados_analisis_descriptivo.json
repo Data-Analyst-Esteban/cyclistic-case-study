@@ -1,0 +1,62 @@
+{
+  "timestamp": "2025-11-19T20:58:19.181619",
+  "estadisticas_estructura": {
+    "total_registros": 5421090,
+    "total_columnas": 17,
+    "valores_nulos": {
+      "ride_id": 0,
+      "rideable_type": 0,
+      "started_at": 0,
+      "ended_at": 0,
+      "start_station_name": 1081395,
+      "start_station_id": 1081395,
+      "end_station_name": 1106489,
+      "end_station_id": 1106489,
+      "start_lat": 0,
+      "start_lng": 0,
+      "end_lat": 130,
+      "end_lng": 130,
+      "member_casual": 0,
+      "ride_length": 0,
+      "ride_length_formatted": 0,
+      "day_of_week": 0,
+      "day_name": 0
+    }
+  },
+  "estadisticas_generales": {
+    "ride_length_stats": {
+      "promedio": 14.86575997518642,
+      "mediana": 9.660674999999998,
+      "minimo": 1.0,
+      "maximo": 1439.97595,
+      "std": 28.27302736372464
+    },
+    "distribucion_usuarios": {
+      "member": 3499202,
+      "casual": 1921888
+    },
+    "distribucion_dias": {
+      "Viernes": 832901,
+      "Jueves": 831894,
+      "Miércoles": 802945,
+      "Lunes": 773004,
+      "Martes": 745370,
+      "Domingo": 728327,
+      "Sábado": 706649
+    }
+  },
+  "resultados_por_usuario": {
+    "member": {
+      "registros": 3499202,
+      "duracion_promedio": 12.081419908224788,
+      "duracion_mediana": 8.713291666666667,
+      "porcentaje_total": 64.5479414656462
+    },
+    "casual": {
+      "registros": 1921888,
+      "duracion_promedio": 19.935237661186985,
+      "duracion_mediana": 11.904341666666667,
+      "porcentaje_total": 35.45205853435379
+    }
+  }
+}
